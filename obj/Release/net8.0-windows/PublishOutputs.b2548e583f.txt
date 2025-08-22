@@ -1,0 +1,5 @@
+C:\Users\liamb\source\repos\WinFormsN2\WinFormsN2\bin\Release\net8.0-windows\publish\WinFormsN2.exe
+C:\Users\liamb\source\repos\WinFormsN2\WinFormsN2\bin\Release\net8.0-windows\publish\WinFormsN2.dll
+C:\Users\liamb\source\repos\WinFormsN2\WinFormsN2\bin\Release\net8.0-windows\publish\WinFormsN2.deps.json
+C:\Users\liamb\source\repos\WinFormsN2\WinFormsN2\bin\Release\net8.0-windows\publish\WinFormsN2.runtimeconfig.json
+C:\Users\liamb\source\repos\WinFormsN2\WinFormsN2\bin\Release\net8.0-windows\publish\WinFormsN2.pdb
